@@ -18,7 +18,7 @@ export const Hero = () => {
         <p className="text-white sm:text-lg my-6 lg:text-xl">My name is Ahmad Fauzan and I have 1 year experience in web development</p>
 
         <div className="my-8">
-          <a href="../assets/CV dan Portofolio.pdf" className="px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white">
+          <a href="/SamplePDF.pdf" download="SamplePDF.pdf" className="px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white">
             Download CV
           </a>
           <a href="#contact" className="px-6 py-3 w-full rounded-xl mr-4 border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500 text-white hover:border-none">
