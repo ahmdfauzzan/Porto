@@ -21,7 +21,7 @@ export const Project = () => {
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider">Online Course</span>
             <div className="pt-8 text-center">
-              <a target="_blank" rel="noopener noreferrer" href="https://proyek-pemrograman.vercel.app/">
+              <a target="_blank" rel="noopener noreferrer" href="https://final-projek-binar-kelas-online.vercel.app/">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Live</button>
               </a>
             </div>
