@@ -12,7 +12,7 @@ export const Hero = () => {
       <div className="col-span-2 px-5 text-white my-auto">
         <h1 className="text-white text-4xl sm:text-5xl lg:text-8xl font-extrabold">
           <span className="primary-color">I'am a</span> <br />
-          <TypeAnimation sequence={["Frontend Dev", 1000, "React Js", 1000]} wrapper="span" speed={50} repeat={Infinity} />
+          <TypeAnimation sequence={["Programmer", 1000, "React Js", 1000,  "Next Js", 1000,  "Laravel", 1000]} wrapper="span" speed={50} repeat={Infinity} />
         </h1>
 
         <p className="text-white sm:text-lg my-6 lg:text-xl">My name is Ahmad Fauzan and I have 2 year experience in web development</p>

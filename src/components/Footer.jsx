@@ -6,7 +6,7 @@ export const Footer = () => {
       <span className="primary-color">Ahmad Fauzan</span>
       <p className="text-gray-600">
         ahmadfauzan.280.af@gmail.com <br />
-        #WebDev2024
+        #WebDev2025
       </p>
     </div>
   );
